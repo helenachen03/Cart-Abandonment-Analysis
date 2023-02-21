@@ -1,2 +1,2 @@
-# Data Analyst Professional Project and Sample Solution
+# Data Analyst Professional Certification Projects
 Data Analyst Project and Sample Solution
