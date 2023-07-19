@@ -8,6 +8,6 @@ Cart abandonment is a common occurrence in e-commerce, where customers add items
 
 ## Table of Contents
 
-- Project Description & Data Generation[!https://github.com/helenachen03/cart-abandonment-analysis/blob/main/Project_Data.ipynb]
+- [Project Description & Data Generation](https://github.com/helenachen03/cart-abandonment-analysis/blob/main/Project_Data.ipynb)
 
-- Analysis Report[!https://github.com/helenachen03/cart-abandonment-analysis/blob/main/notebook.ipynb]
+- [Analysis Report](https://github.com/helenachen03/cart-abandonment-analysis/blob/main/notebook.ipynb)
