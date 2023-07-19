@@ -4,10 +4,11 @@ The Cart Abandon Analysis project is aimed at analyzing and understanding custom
 
 ## Project Overview
 
-Cart abandonment is a common occurrence in e-commerce, where customers add items to their carts but fail to complete the purchase. This project aims to shed light on this phenomenon by leveraging Python libraries such as `Faker`, `Pandas`, and `datetime` to generate a realistic dataset. The generated data incorporates specific requirements, including varying cart quantities, increasing total prices, consistent single-item timestamps, multiple item categories, and intentionally introduced missing values and inconsistencies.
+This project aims to tackle the prevalent issue of cart abandonment in e-commerce by generating a realistic dataset using Python libraries such as `Faker`, `Pandas`, and `datetime`. The dataset will encompass diverse cart quantities, increasing total prices, consistent single-item timestamps, multiple item categories, and intentionally introduced missing values and inconsistencies. Through thorough analysis using `Pandas`, `matplotlib`, `seaborn` and `scipy`, we will explore the relationship between variables and identify the four primary factors behind high cart abandonment rates. The project will culminate in a comprehensive data generation and analysis report, offering valuable insights and actionable patterns to address cart abandonment in the e-commerce domain.
+
 
 ## Table of Contents
 
-- Project Description & Data Generation[!https://github.com/helenachen03/cart-abandonment-analysis/blob/main/Project_Data.ipynb]
+- [Project Description & Data Generation](https://github.com/helenachen03/cart-abandonment-analysis/blob/main/Project_Data.ipynb)
 
-- Analysis Report[!https://github.com/helenachen03/cart-abandonment-analysis/blob/main/notebook.ipynb]
+- [Analysis Report](https://github.com/helenachen03/cart-abandonment-analysis/blob/main/Cart_Abandonment_Analysis.ipynb)
