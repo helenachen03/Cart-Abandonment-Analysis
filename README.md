@@ -12,3 +12,7 @@ This project aims to tackle the prevalent issue of cart abandonment in e-commerc
 - [Project Description & Data Generation](https://github.com/helenachen03/cart-abandonment-analysis/blob/main/Project_Data.ipynb)
 
 - [Analysis Report](https://github.com/helenachen03/cart-abandonment-analysis/blob/main/Cart_Abandonment_Analysis.ipynb)
+  
+- Tableau Dashboard:
+   - [Cart Abandonment Overview](https://public.tableau.com/app/profile/yinghui.chen/viz/CartAbandonmentOverview/CartAbandonmentOverview)
+   - [Cart Abandonment Metrics](https://public.tableau.com/views/CartAbandonmentMetrics/CartAbandonmentMetrics?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
